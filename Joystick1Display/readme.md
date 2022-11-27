@@ -22,4 +22,4 @@
 
 ## Результат
 
-![](images/photo.png)
+![](images/photo.jpg)
